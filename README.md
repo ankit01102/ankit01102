@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ankit01102
+- 👋 Hi, I’m @ankit01102 (Ankit)
 - 👀 I’m interested in cybersecurity 
 - 🌱 I’m currently learning Python js networking and adding soon
 - 💞️ I’m looking to collaborate on (still thinking)
