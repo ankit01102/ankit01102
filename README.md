@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on (still thinking)
 - 📫 How to reach me - through my mail ankitoffl10@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: nothing fun in my life right now plays chess
+- ⚡ Fun fact: nothing fun in my life right now 
 
 <!---
 ankit01102/ankit01102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
